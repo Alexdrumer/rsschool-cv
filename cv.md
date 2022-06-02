@@ -23,6 +23,6 @@ I believe, that my ability to learn and to gain new skills will lead me through 
     ***
 ## languages:
 * Russian - Native
-* Ukrainian - Intermediate
+* Ukrainian - Native
 * Polish - Intermediate
 * English-basic
